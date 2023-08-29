@@ -1,0 +1,63 @@
+/* Reset some default styles */
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap'); */
+body{font-family: 'Roboto', sans-serif; font-weight: 300; }
+body, h1, h2, h3, h4, h5, h6, p, ul, li {
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  /* Header Styles */
+  .navbar .sticky{
+    background-color: #f8f9fa;
+    position: fixed;
+  top: 0;
+  width: 100%;
+  }
+  .navbar-brand {
+    font-weight: bold;
+  }
+  .navbar-nav .nav-item {
+    margin-right: 20px;
+  }
+  .banner {
+    padding: 100px 0;
+    background-color: #f0f0f0;
+  }
+  
+  /* About Us Section Styles */
+  .about {
+    padding: 10px 0;
+    background-color: #ffffff;
+  }
+  
+  /* OPUS Section Styles */
+  .opus {
+    padding: 5px 0;
+    background-color: #f8f9fa;
+  }
+  
+  /* Model Section Styles */
+  .advanced-model {
+    /* padding: 5px 0 !important;  */
+    background-color: #ffffff;
+    /* border: solid; */
+  }
+  
+  /* Advanced Model Section Styles */
+  .advanced-model {
+    padding: 5px 0;
+    background-color: #f8f9fa;
+  }
+  
+  /* Videos Section Styles */
+  .videos {
+    padding: 5px 0;
+    background-color: #ffffff;
+  }
+  
+  /* Contact Section Styles */
+  .contact {
+    padding: 5px 0;
+    background-color: #f8f9fa;
+  }
+  
